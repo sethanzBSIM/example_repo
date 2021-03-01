@@ -1,2 +1,3 @@
 sample init
 penambahan isi ke 1
+isi value index.txt dari master
